@@ -27,3 +27,7 @@ pickup and delivery scheduling.
 
 The initial Smart Laundry Service workflow has been implemented
 and the project is being maintained using Git and GitHub.
+## Customer Service Feature
+
+Customers can select laundry services, enter the required laundry
+details, and schedule pickup and delivery.
