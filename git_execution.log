@@ -1,0 +1,38 @@
+Script started on Mon Sep 28 14:09:40 2026
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit init[27m[8D[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[?2004l
+Initialized empty Git repository in /Users/ruddhidaramadoss/DevOps_CI_24BCS230/.git/
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADME.md[m
+	[31mgit_execution.log[m
+	[31msrc/[m
+	[31mtests/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit config --global user.name "Ruddhida Ramadoss"[27m[49D[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27m-[27m-[27mg[27ml[27mo[27mb[27ma[27ml[27m [27mu[27ms[27me[27mr[27m.[27mn[27ma[27mm[27me[27m [27m"[27mR[27mu[27md[27md[27mh[27mi[27md[27ma[27m [27mR[27ma[27mm[27ma[27md[27mo[27ms[27ms[27m"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit config --global user.email "ruddhida.ramadoss@icloud.com"[27m[61D[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27m-[27m-[27mg[27ml[27mo[27mb[27ma[27ml[27m [27mu[27ms[27me[27mr[27m.[27me[27mm[27ma[27mi[27ml[27m [27m"[27mr[27mu[27md[27md[27mh[27mi[27md[27ma[27m.[27mr[27ma[27mm[27ma[27md[27mo[27ms[27ms[27m@[27mi[27mc[27ml[27mo[27mu[27md[27m.[27mc[27mo[27mm[27m"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit config --global user.name[27m[29D[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27m-[27m-[27mg[27ml[27mo[27mb[27ma[27ml[27m [27mu[27ms[27me[27mr[27m.[27mn[27ma[27mm[27me[?2004l
+Ruddhida Ramadoss
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit config --global user.email[27m[30D[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27m-[27m-[27mg[27ml[27mo[27mb[27ma[27ml[27m [27mu[27ms[27me[27mr[27m.[27me[27mm[27ma[27mi[27ml[?2004l
+ruddhida.ramadoss@icloud.com
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADME.md[m
+	[31mgit_execution.log[m
+	[31msrc/[m
+	[31mtests/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                        [0m[27m[24m[Jruddhidaramadoss@Rudds-MacBook-Air DevOps_CI_24BCS230 % [K[?2004h
