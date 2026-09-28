@@ -23,3 +23,7 @@ pickup and delivery scheduling.
 - Pickup and Delivery Scheduling
 - Order Confirmation
 - Unique Order ID
+## Development Status
+
+The initial Smart Laundry Service workflow has been implemented
+and the project is being maintained using Git and GitHub.
