@@ -25,5 +25,14 @@ pickup and delivery scheduling.
 - Unique Order ID
 ## Development Status
 
-The initial Smart Laundry Service workflow has been implemented
-and the project is being maintained using Git and GitHub.
+## Development Status
+
+The customer ordering workflow has been improved for easier
+laundry service management.
+
+The pricing calculation issue has been fixed and the laundry
+order workflow is now working correctly.
+## Customer Service Feature
+
+Customers can select laundry services, enter the required laundry
+details, and schedule pickup and delivery.
