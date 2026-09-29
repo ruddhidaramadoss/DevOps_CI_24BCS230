@@ -5,7 +5,7 @@ public class LaundryServiceTest {
         double weight = 5.0;
         double pricePerKg = 50.0;
 
-        double expectedPrice = 250.0;
+        double expectedPrice = 250.0; // Updated test validation
         double actualPrice =
                 LaundryService.calculatePrice(weight, pricePerKg);
 
